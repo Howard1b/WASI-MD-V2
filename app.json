@@ -8,7 +8,7 @@
 
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",
+      "description": "Namey",
       "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
       "required": true
     },
